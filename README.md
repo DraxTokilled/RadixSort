@@ -63,7 +63,7 @@ Radix Sort es un algoritmo de ordenamiento no comparativo que agrupa los número
 
 ## Créditos
 
-Desarrollado para [Nombre del profesor], como demostración del algoritmo Radix Sort en la materia de Estructuras de Datos con Java.
+Desarrollado para UTT, como demostración del algoritmo Radix Sort en la materia de Estructuras de Datos con Java.
 
 ---
 
